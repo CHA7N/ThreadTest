@@ -7,6 +7,7 @@ public class MyThread {
                 String name ="chenqi";
                 String name1="chenqi1";
                 String name2="chenqi2";
+                String name23="chenqi24";
                 System.out.println("MyThread....");
                 try {
                     Thread.sleep(500000);
