@@ -3,7 +3,8 @@ public class MyThread {
         new Thread(){
             @Override
             public void run() {
-                int num = 4;
+                int num = 5;
+                String name ="chenqi";
                 System.out.println("MyThread....");
                 try {
                     Thread.sleep(500000);
