@@ -5,6 +5,7 @@ public class MyThread {
             public void run() {
                 int num = 5;
                 String name ="chenqi";
+                String name1="chenqi1";
                 System.out.println("MyThread....");
                 try {
                     Thread.sleep(500000);
