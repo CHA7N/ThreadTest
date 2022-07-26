@@ -8,6 +8,7 @@ public class MyThread {
                 String name1="chenqi1";
                 String name2="chenqi2";
                 String name23="chenqi234";
+                String name223="chenqi2334";
                 System.out.println("MyThread....");
                 try {
                     Thread.sleep(500000);
